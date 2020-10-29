@@ -1,0 +1,8 @@
+alias ya="yarn add"
+alias yad="yarn add --dev"
+alias yi="yarn init"
+alias yy="yarn"
+alias ys="yarn start"
+alias yt="yarn test"
+alias yit="yarn && yarn test"
+alias yr="yarn run"
